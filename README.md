@@ -1,3 +1,3 @@
 # atari-dqn
 
-This doesn't really do anything right now. Currently just takes a random action at every timestep and displays the last 4 frames at the end of every episode. There is a preprocessing method defined.
+This code trains a Deep Q-Network to play the Atari 2600 game Breakout. Uses architecture similar to the DeepMind project from 2013. Current implementation follows a very exploratory policy.
